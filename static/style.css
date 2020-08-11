@@ -30,14 +30,6 @@
     color: black;
 }
 
-.alert_{
-    color: red;
-}
-.custom-file-label {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
 
 .Label-Index{
     background-color: white;

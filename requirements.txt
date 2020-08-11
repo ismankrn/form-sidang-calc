@@ -23,5 +23,3 @@ numpy
 python-pdf
 statsmodels
 joblib
-openpyxl
-xlrd
